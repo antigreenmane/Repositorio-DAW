@@ -6,4 +6,4 @@ Temario
 | Tema | Nombre | Descripcion |
 |--------|--------|-------------|
 | Tema 0 | [Ejercicio 0.1](Tema0/Ejercicio1.md)    | Practica de servidor web   |
-| Tema 0 | [Ejercicio 1.1](Tema1/Ejercicio1/Ejercicio1.md)    | Instalacion de apache   |
+| Tema 1 | [Ejercicio 1.1](Tema1/Ejercicio1/Ejercicio1.md)    | Instalacion de apache   |
