@@ -1,4 +1,6 @@
-<font size="16">**1) Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet y departamentos.centro.intranet. El primero servirá el contenido mediante wordpress y el segundo una aplicación en python</font>**</font>
+**------------------------------------------------------------------
+1) Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet y departamentos.centro.intranet. El primero servirá el contenido mediante wordpress y el segundo una aplicación en python</font>
+------------------------------------------------------------------**
 
 
 Primero hago un update de apt
@@ -36,5 +38,6 @@ Habilitamos ambos sitios y reiniciamos apache nuevamente
 
 ![permisos](11.png)
 
+**------------------------------------------------------------------
 Activar los módulos necesarios para ejecutar php y acceder a mysql
-
+------------------------------------------------------------------**
