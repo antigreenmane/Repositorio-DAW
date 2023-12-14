@@ -14,6 +14,7 @@ Luego procedo a instalar Apache
 A continuacion tenemos que configurar los hosts, usando nano, accedemos al archivo y agregamos las dos siguientes lineas
 
 ![hosts](3.png)
+
 ![hosts2](4.png)
 
 Y reiniciamos apache
