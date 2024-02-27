@@ -93,6 +93,24 @@ Nuevamente, le damos permisos y ejecutamos.
 
 ![Auto](23.png)
 
+Ahora comprovemos que se ha creado correctamente y el script ha funcionado.
+Podemos comprobarlo desde la misma terminal, en la que necesitaremos entrar con el usuario y posteriormente nos pedira la contraseña.
+
+![Test](extra1.png)
+
+Si hemos introducido bien la contraseña y el usuario, nos dara acceso a la mysql
+
+![Test](extra2.png)
+
+Ahora podemos introducir "SHOW DATABASES;". Esto nos mostrara las bases de datos existentes.
+Si el Script hizo su trabajo deberia de estar en la lista "base_practica" que es la que usamos en este.
+
+![Test](extra3.png)
+
+Como podemos ver, la base de datos existe, podemos acceder a ella y comprobar las tablas, pero ya que nuestro script no creaba ninguna, nos dira que esta vacia
+
+![Test](extra4.png)
+
 Por ultimo, debemos automatizar la habilitacion de Python. Creamos un ultimo archivo.
 
 ![Auto](24.png)
