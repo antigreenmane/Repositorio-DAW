@@ -1,6 +1,6 @@
 [volver](../Ejercicio2.md)
 
-[activity 3](../actividad2/activity3.md)
+[activity 3](../actividad3/activity3.md)
 
 ***Parte 1 del ejercicio***
 
@@ -73,4 +73,4 @@ podemos comprobar que la imagen se ha subido correctamente en hub.docker.com
 
 [volver](../Ejercicio2.md)
 
-[activity 3](../actividad2/activity3.md)
+[activity 3](../actividad3/activity3.md)
