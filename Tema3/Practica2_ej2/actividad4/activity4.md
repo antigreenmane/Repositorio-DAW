@@ -1,6 +1,5 @@
 [volver](../Ejercicio2.md)
 
-[activity 5](../actividad5/activity5.md)
 
 ***Ejemplo 1: Despliegue de la aplicación Guestbook***
 
@@ -79,5 +78,3 @@ Y probamos que funciona
 
 
 [volver](../Ejercicio2.md)
-
-[activity 5](../actividad5/activity5.md)
