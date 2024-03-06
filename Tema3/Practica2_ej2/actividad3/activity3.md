@@ -2,7 +2,7 @@
 
 [activity 2](../actividad4/activity4.md)
 
-***1)Pull & run, borrar y dar nombres a los contenedores***
+***Pull & run, borrar y dar nombres a los contenedores***
 
 Primero vamos a descargar la imagen de ubuntu, hello-world y nginx
 
