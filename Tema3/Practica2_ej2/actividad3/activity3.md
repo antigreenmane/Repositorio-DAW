@@ -1,6 +1,6 @@
 [volver](../Ejercicio2.md)
 
-[activity 2](../actividad4/activity4.md)
+[activity 4](../actividad4/activity4.md)
 
 ***Pull & run, borrar y dar nombres a los contenedores***
 
@@ -39,4 +39,4 @@ Por ultimo nos falta la ultima tarea que es borrar todos los contenedores
 
 [volver](../Ejercicio2.md)
 
-[activity 2](../actividad4/activity4.md)
+[activity 4](../actividad4/activity4.md)
